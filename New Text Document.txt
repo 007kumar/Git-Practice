@@ -1,0 +1,7 @@
+git status
+git add .
+git log
+git commit -m "version1"
+
+git config --global user.email "xyz@gmail.com"
+git config --global user.name "Skumar"
